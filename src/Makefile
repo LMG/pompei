@@ -1,2 +1,2 @@
-pompei: main.c
-	gcc -o pompei main.c -Wall
+pompei: main.cpp
+	g++ -o pompei main.cpp -Wall
